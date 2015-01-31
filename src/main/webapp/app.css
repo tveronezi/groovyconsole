@@ -1,0 +1,22 @@
+.script-form {
+    position: absolute;
+    bottom: 5px;
+    top: 5px;
+    right: 5px;
+    left: 5px;
+}
+
+div.CodeMirror {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 15px;
+}
+
+input.submit-btn {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
